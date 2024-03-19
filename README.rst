@@ -19,3 +19,5 @@ Documentation
 -------------
 
 `Targeted analysis workflow <https://github.com/biorack/metatlas/blob/main/docs/Targeted_Analysis.md>`_
+
+`Contributor list <https://github.com/bkieft-usa/metatlas-bkieft/blob/main/CONTRIBUTORS.rst>`_
